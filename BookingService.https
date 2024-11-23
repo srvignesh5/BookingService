@@ -1,0 +1,5 @@
+@BookingService_HostAddress= https://localhost:5002
+
+Accept: application/json
+
+###
